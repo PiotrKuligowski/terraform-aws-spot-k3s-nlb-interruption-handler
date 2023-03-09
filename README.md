@@ -1,0 +1,1 @@
+# AWS Spot K3s interruption handler lambda Terraform module
